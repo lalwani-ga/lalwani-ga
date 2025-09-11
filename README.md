@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm passionate about solving complex technical challenges, especially in Python! I enjoy debugging tricky logic, building systems by breaking problems into smaller parts, and visualizing data with tools like Matplotlib. I’m especially interested in using data science tools like Pandas, NumPy, scikit-learn, and SQL to analyze and solve real-world problems. I’m motivated by curiosity, the satisfaction of building something that works, and the opportunity to learn and grow alongside others. My projects reflect my interest in clean, well-documented code, data analysis, and creating tools that are both functional and insightful.
+I'm passionate about solving complex technical challenges, especially in Python! I enjoy debugging tricky logic, building systems by breaking problems into smaller parts, and visualizing data with tools like Matplotlib. I’m especially interested in using data science tools like Pandas, NumPy, scikit-learn, and SQL to analyze and solve real-world problems. I’m motivated by curiosity, the satisfaction of building something that works, and the opportunity to learn and grow alongside others.
 
 <!--
 **lalwani-ga/lalwani-ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
